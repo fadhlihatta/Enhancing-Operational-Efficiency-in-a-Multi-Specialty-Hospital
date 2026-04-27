@@ -5,6 +5,9 @@
 
 ---
 
+## 📸 Dashboard Preview
+![Dashboard_Preview](dashboard/screenshot.png)
+
 ## 📌 Project Overview
 This project analyzes operational inefficiencies in a multispecialty hospital and proposes a **data-driven, system-integrated solution** to improve:
 
@@ -14,7 +17,7 @@ This project analyzes operational inefficiencies in a multispecialty hospital an
 
 The approach combines **Business Analysis + Data Analytics + Process Optimization** into a single end-to-end solution.
 
-📄 **[View Full Report](docs/final-project.pdf)**
+📄 **[View Full Report](docs/final-report.pdf)**
 
 ---
 
