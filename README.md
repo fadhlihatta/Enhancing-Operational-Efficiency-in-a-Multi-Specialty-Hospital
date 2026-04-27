@@ -139,3 +139,28 @@ Hospitals face systemic inefficiencies caused by:
 ---
 
 ## 📂 Repository Structure
+hospital-operations-analysis/
+│
+├── README.md
+├── docs/ → Final report
+├── business-analysis/ → BRD, RTM, stakeholder
+├── data/ → Raw & cleaned datasets
+├── analysis/ → Insights & reports
+├── dashboard/ → Dashboard outputs
+├── process/ → BPMN & diagrams
+└── risk/ → Risk management
+
+---
+
+## 📈 Expected Impact
+- ⬇️ Waiting time by ≥30%  
+- ⬆️ Resource utilization efficiency  
+- ⬆️ Patient satisfaction  
+- ⬇️ Operational bottlenecks  
+- ⬆️ Decision-making quality  
+
+---
+
+## 👤 Author
+**Fadhli Hatta**  
+Business Analyst | Data-Driven Problem Solver
