@@ -139,6 +139,7 @@ Hospitals face systemic inefficiencies caused by:
 ---
 
 ## 📂 Repository Structure
+```
 hospital-operations-analysis/
 │
 ├── README.md
@@ -149,7 +150,7 @@ hospital-operations-analysis/
 ├── dashboard/ → Dashboard outputs
 ├── process/ → BPMN & diagrams
 └── risk/ → Risk management
-
+```
 ---
 
 ## 📈 Expected Impact
